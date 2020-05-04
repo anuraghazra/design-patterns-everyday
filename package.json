@@ -1,0 +1,12 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Design patterns everyday",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "tsc:watch": "tsc -w"
+  },
+  "author": "Anurag Hazra",
+  "license": "MIT"
+}

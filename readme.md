@@ -23,7 +23,7 @@ https://twitter.com/hashtag/DesignPatternsEveryday
   - [x] Decorator Pattern
   - [x] Facade Pattern
   - [ ] Flyweight Pattern
-  - [ ] Proxy Pattern
+  - [x] Proxy Pattern
 
 - **Behavioral**
   - [ ] Chain of Responsibility

@@ -26,7 +26,7 @@ https://twitter.com/hashtag/DesignPatternsEveryday
   - [x] Proxy Pattern
 
 - **Behavioral**
-  - [ ] Chain of Responsibility
+  - [x] Chain of Responsibility
   - [ ] Command Pattern
   - [ ] Iterator Pattern
   - [ ] Mediator Pattern

@@ -28,7 +28,7 @@ https://twitter.com/hashtag/DesignPatternsEveryday
 - **Behavioral**
   - [x] Chain of Responsibility
   - [x] Command Pattern
-  - [ ] Iterator Pattern
+  - [x] Iterator Pattern
   - [ ] Mediator Pattern
   - [ ] Observer Pattern
   - [ ] State Pattern

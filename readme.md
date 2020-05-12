@@ -29,7 +29,7 @@ https://twitter.com/hashtag/DesignPatternsEveryday
   - [x] Chain of Responsibility
   - [x] Command Pattern
   - [x] Iterator Pattern
-  - [ ] Mediator Pattern
+  - [x] Mediator Pattern
   - [ ] Observer Pattern
   - [ ] State Pattern
   - [ ] Strategy Pattern

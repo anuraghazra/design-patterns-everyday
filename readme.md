@@ -30,7 +30,7 @@ https://twitter.com/hashtag/DesignPatternsEveryday
   - [x] Command Pattern
   - [x] Iterator Pattern
   - [x] Mediator Pattern
-  - [ ] Observer Pattern
+  - [x] Observer Pattern
   - [ ] State Pattern
   - [ ] Strategy Pattern
   - [ ] Template Method

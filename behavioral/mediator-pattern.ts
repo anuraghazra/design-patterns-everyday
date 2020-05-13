@@ -5,26 +5,6 @@ interface IMediator {
   sendMessage(msg: string, from: any, to?: any): void
 }
 
-
-// class ChatView {
-//   messages: any[];
-//   constructor() {
-//     this.messages = [];
-//   }
-
-//   addMsg(msg: { from: Member, to: Member, value: string }) {
-//     this.messages.push(msg)
-//   }
-
-//   print() {
-//     this.messages.forEach(msg => {
-//       consoleColor('cyan', `${msg.from.name} says to ${msg.to.name} : `)
-//       consoleColor('green', `${msg.value}`)
-//     });
-//   }
-// }
-
-
 class Chatroom implements IMediator {
   members: { [x: string]: Member };
   constructor() {

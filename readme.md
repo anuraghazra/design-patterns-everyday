@@ -31,7 +31,7 @@ https://twitter.com/hashtag/DesignPatternsEveryday
   - [x] Iterator Pattern
   - [x] Mediator Pattern
   - [x] Observer Pattern
-  - [ ] State Pattern
+  - [x] State Pattern
   - [ ] Strategy Pattern
   - [ ] Template Method
   - [ ] Visitor Pattern

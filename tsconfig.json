@@ -4,6 +4,8 @@
     "target": "ES2016",
     "module": "commonjs",
     "allowJs": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
     "strict": false,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true

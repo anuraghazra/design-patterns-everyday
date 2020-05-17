@@ -33,5 +33,5 @@ https://twitter.com/hashtag/DesignPatternsEveryday
   - [x] Observer Pattern
   - [x] State Pattern
   - [x] Strategy Pattern
-  - [ ] Template Method
-  - [ ] Visitor Pattern
+  - [x] Template Method
+  - [x] Visitor Pattern
